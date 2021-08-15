@@ -29,7 +29,7 @@ Features of the dashboard:
 3. Pie chart that displays the percentage of Bully texts predicted to the Non-bully texts predicted. 
 4. Table that displays complete detail of tweets and replies, along with the predictions made by the ML model. 
 5. Logout button provided on right side of the navbar that takes back to the login page for new session.
-6. 
+
 ![Dashboard](https://user-images.githubusercontent.com/55174251/129469548-2e61940a-cf3e-465d-9036-79ccac08a930.JPG)
 
 3. WARNING EMAIL SENT TO THE USER :
