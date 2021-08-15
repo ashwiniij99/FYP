@@ -12,22 +12,27 @@ OUTPUT SCREENSHOTS :
 
 ![image](https://user-images.githubusercontent.com/55174251/129469540-56b4a343-82a8-49bf-a8aa-f2fc1037c587.png)
 
-DASHBOARD : This is dashboard that comes up as soon as user is logged in. 
+2. DASHBOARD : This is dashboard that comes up as soon as user is logged in. 
 
 Features of the dashboard: 
 1. Username is displayed on the left corner of the navbar of user currently logged in. 
-2. 2. Cards display: 
+2. Cards display: 
+
    i. Number of tweets done by user 
-   ii. Number of Replies on user’s tweets 
+  
+   ii. Number of Replies on user’s tweets
+   
    iii. Number of Non-Cyberbully texts predicted by ML model. 
+   
    iv. Number of Cyberbully texts predicted by ML model 
+   
 3. Pie chart that displays the percentage of Bully texts predicted to the Non-bully texts predicted. 
 4. Table that displays complete detail of tweets and replies, along with the predictions made by the ML model. 
 5. Logout button provided on right side of the navbar that takes back to the login page for new session.
 6. 
 ![Dashboard](https://user-images.githubusercontent.com/55174251/129469548-2e61940a-cf3e-465d-9036-79ccac08a930.JPG)
 
-WARNING EMAIL SENT TO THE USER :
+3. WARNING EMAIL SENT TO THE USER :
 
 ![Gmail ss 2](https://user-images.githubusercontent.com/55174251/129469604-98010d66-7200-43ae-ac5b-551c2297a540.JPG)
 
